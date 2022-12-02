@@ -1,5 +1,5 @@
 # Aplicacion
-1.- Descargar la aplicación.
+1.- Descargar la carpeta ZIP del proyecto.
 2.- Descomprimir la carpeta.
 3.- Abrir android Studio.
 4.- Abrir el proyecto.
